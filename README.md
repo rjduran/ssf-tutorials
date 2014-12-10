@@ -1,4 +1,4 @@
-ssf-tutorials
+ssftutorials
 ======================
 
 Tutorials covering design techniques for fabrication using various 3D modeling programs and workflows. 
